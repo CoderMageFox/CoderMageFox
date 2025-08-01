@@ -21,7 +21,8 @@
 const coderMageFox = {
     location: "🌍 Earth",
     languages: ["中文", "English", "JavaScript", "Python", "TypeScript"],
-    currentFocus: "Building amazing web experiences",
+    currentFocus: "AI Agent Development & Full Stack Solutions",
+    motto: "Never Give Up",
     funFact: "I debug with console.log and I'm not ashamed! 🐛✨"
 };
 ```
@@ -32,26 +33,30 @@ const coderMageFox = {
 
 <div align="center">
 
-### Frontend Magic | 前端魔法
+### Core Languages | 核心语言
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Sorcery | 后端法术
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & Agent Development | AI智能体开发
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=for-the-badge&logo=ai&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=for-the-badge&logo=database&logoColor=white)
+![Agents](https://img.shields.io/badge/-AI_Agents-00D4AA?style=for-the-badge&logo=robot&logoColor=white)
+
+### Full Stack Development | 全栈开发
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Automation & Workflow | 自动化工作流
+![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Workflow](https://img.shields.io/badge/-Workflow_Automation-FF9500?style=for-the-badge&logo=workflow&logoColor=white)
 
 ### Tools & Platforms | 工具平台
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -100,9 +105,10 @@ const coderMageFox = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔮 **Magic Dashboard** | Interactive data visualization | React + D3.js |
-| 🚀 **Code Optimizer** | AI-powered code analysis | Python + ML |
-| 🌟 **DevTools Extension** | Browser developer tools | JavaScript + Chrome API |
+| 🏝️ **[OASIS](https://github.com/camel-ai/oasis)** | Open Agent Social Interaction Simulations | Python + AI Agents |
+| ⚡ **[alfredMagic](https://github.com/CoderMageFox/alfredMagic)** | 中文效率提升Workflow | JavaScript + Alfred |
+| 🎲 **[magefake](https://github.com/CoderMageFox/magefake)** | 中文数据随机生成工具 | JavaScript + Workflow |
+| 📦 **[React-TS-Storybook](https://github.com/CoderMageFox/react-sass-typescript-storybook-template)** | 组件开发脚手架模板 | TypeScript + React + Storybook |
 
 </div>
 
@@ -113,9 +119,9 @@ const coderMageFox = {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderMageFox)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codermagefox@codermagefox.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://x.com/CoderMageFox)
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](http://www.codermagefox.com/)
 
 </div>
 
