@@ -1,8 +1,6 @@
 <div align="center">
   
 # 🧙‍♂️ CoderMageFox
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1500&color=36BCF7FF&center=true&vCenter=true&width=800&lines=%E6%95%B0%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%89%A9%EF%BC%8C%E8%BF%98%E7%9C%8B%E4%BB%8A%E6%9C%9D;%E6%B1%9F%E5%B1%B1%E5%A6%82%E6%AD%A4%E5%A4%9A%E5%A8%87%EF%BC%8C%E5%BC%95%E6%97%A0%E6%95%B0%E8%8B%B1%E9%9B%84%E7%AB%9E%E6%8A%98%E8%85%B0;%E4%BF%B1%E5%BE%80%E7%9F%A3%EF%BC%8C%E6%95%B0%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%89%A9%EF%BC%8C%E8%BF%98%E7%9C%8B%E4%BB%8A%E6%9C%9D;%E4%B8%80%E4%B8%87%E5%B9%B4%E5%A4%AA%E4%B9%85%EF%BC%8C%E5%8F%AA%E4%BA%89%E6%9C%9D%E5%A4%95;%E5%B1%B1%E8%88%9E%E9%93%B6%E8%9B%87%EF%BC%8C%E5%8E%9F%E9%A9%B0%E8%9C%A1%E8%B1%A1" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CoderMageFox&label=Profile%20views&color=0e75b6&style=flat" alt="CoderMageFox" /> 
