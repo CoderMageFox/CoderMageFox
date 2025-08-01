@@ -11,14 +11,14 @@
 
 ## 🚀 About Me
 
-🔮 **用代码魔法将想法变为现实**  
-🌟 **热衷于创造优雅的解决方案**  
-🎯 **持续学习，不断成长**  
+🔮 **Transforming ideas into reality through code magic**  
+🌟 **Passionate about creating elegant solutions**  
+🎯 **Always learning, always growing**  
 
 ```javascript
 const coderMageFox = {
     location: "🌍 Earth",
-    languages: ["中文", "English", "JavaScript", "Python", "TypeScript"],
+    languages: ["English", "中文", "JavaScript", "Python", "TypeScript"],
     currentFocus: "AI Agent Development & Full Stack Solutions",
     motto: "Never Give Up",
     funFact: "I debug with console.log and I'm not ashamed! 🐛✨"
@@ -39,6 +39,8 @@ const coderMageFox = {
 ### AI & Agent Development
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=for-the-badge&logo=ai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Dify](https://img.shields.io/badge/-Dify-6366F1?style=for-the-badge&logo=dify&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=for-the-badge&logo=database&logoColor=white)
 ![Agents](https://img.shields.io/badge/-AI_Agents-00D4AA?style=for-the-badge&logo=robot&logoColor=white)
 
@@ -46,6 +48,7 @@ const coderMageFox = {
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Automation & Workflow
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -104,9 +107,9 @@ const coderMageFox = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🏝️ **[OASIS](https://github.com/camel-ai/oasis)** | Open Agent Social Interaction Simulations | Python + AI Agents |
-| ⚡ **[alfredMagic](https://github.com/CoderMageFox/alfredMagic)** | 中文效率提升Workflow | JavaScript + Alfred |
-| 🎲 **[magefake](https://github.com/CoderMageFox/magefake)** | 中文数据随机生成工具 | JavaScript + Workflow |
-| 📦 **[React-TS-Storybook](https://github.com/CoderMageFox/react-sass-typescript-storybook-template)** | 组件开发脚手架模板 | TypeScript + React + Storybook |
+| ⚡ **[alfredMagic](https://github.com/CoderMageFox/alfredMagic)** | Productivity Enhancement Workflow for Chinese | JavaScript + Alfred |
+| 🎲 **[magefake](https://github.com/CoderMageFox/magefake)** | Chinese Data Generation Workflow Tool | JavaScript + Workflow |
+| 📦 **[React-TS-Storybook](https://github.com/CoderMageFox/react-sass-typescript-storybook-template)** | Component Development Scaffold Template | TypeScript + React + Storybook |
 
 </div>
 
