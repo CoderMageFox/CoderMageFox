@@ -35,8 +35,8 @@ As the lead architect, I've migrated our entire tech stack from a Python/Kotlin/
 
 **Daily Reality**
 - Token consumption: 300M - 500M / day
-- Primary models: Claude Opus 4.5, GPT-5, Gemini 2.5 Pro
-- AI generates 90%+ of code, humans own architecture and quality
+- Primary models: Claude Opus 4.5, GPT-5, Gemini 3.0 Pro
+- AI generates 100%+ of code, humans own architecture and quality
 
 ---
 
