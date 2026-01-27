@@ -1,72 +1,52 @@
-<div align="center">
-  
-# 🧙‍♂️ CoderMageFox
+# Hi, I'm CoderMageFox
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderMageFox&label=Profile%20views&color=0e75b6&style=flat" alt="CoderMageFox" /> 
-  <img src="https://img.shields.io/github/followers/CoderMageFox?label=Followers&style=social" alt="GitHub Badge">
-</p>
+I'm a developer working at the intersection of **AI Agent Development**, **Full-Stack Engineering**, and **Workflow Automation**. Passionate about building intelligent systems that transform ideas into reality.
 
 ---
 
-## 🚀 About Me
+## Who I Am
 
-🔮 **Transforming ideas into reality through code magic**  
-🌟 **Passionate about creating elegant solutions**  
-🎯 **Always learning, always growing**  
-
-```javascript
-const coderMageFox = {
-    location: "🌍 Earth",
-    languages: ["English", "中文", "JavaScript", "Python", "TypeScript"],
-    currentFocus: "AI Agent Development & Full Stack Solutions",
-    motto: "Never Give Up",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛✨"
-};
-```
+- **AI Agent Developer**: Building autonomous AI systems, multi-agent orchestration frameworks, and intelligent automation tools. Creator of [nexus-cli](https://github.com/CoderMageFox/nexus-cli) and contributor to [OASIS](https://github.com/camel-ai/oasis).
+- **Full-Stack Engineer**: Architecting modern web applications with TypeScript, React, Node.js, and Python. Experience in building scalable systems from frontend to backend.
+- **Automation Enthusiast**: Crafting workflow automation solutions with n8n, Alfred workflows, and custom tooling to boost productivity.
+- **Open Source Contributor**: Active contributor to AI and developer tooling projects. Believer in building in public.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-<div align="center">
+### [Nexus CLI](https://github.com/CoderMageFox/nexus-cli)
+Intelligent CLI router that automatically selects the best AI backend for your tasks. Supports multiple AI providers with smart routing.
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Tech Stack**: Python, Multi-AI Integration
 
-### AI & Agent Development
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=for-the-badge&logo=ai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Dify](https://img.shields.io/badge/-Dify-6366F1?style=for-the-badge&logo=dify&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=for-the-badge&logo=database&logoColor=white)
-![Agents](https://img.shields.io/badge/-AI_Agents-00D4AA?style=for-the-badge&logo=robot&logoColor=white)
+### [Claude Code Codex Subagents](https://github.com/CoderMageFox/claudecode-codex-subagents)
+A Claude Code plugin for orchestrating complex tasks by delegating to multiple parallel Codex agents, then merging and reviewing results.
 
-### Full Stack Development
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Tech Stack**: Shell, Claude Code, Multi-Agent Orchestration
 
-### Automation & Workflow
-![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Workflow](https://img.shields.io/badge/-Workflow_Automation-FF9500?style=for-the-badge&logo=workflow&logoColor=white)
+### [OASIS](https://github.com/camel-ai/oasis) (Contributor)
+Open Agent Social Interaction Simulations - A platform for simulating social interactions between AI agents.
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Tech Stack**: Python, AI Agents, Multi-Agent Systems
 
-</div>
+### [NoFx](https://github.com/NoFxAiOS/nofx) (Contributor)
+Open-source Trading OS with pluggable AI brain. From market data to AI reasoning to trade execution.
+
+**Tech Stack**: Go, AI, Trading Systems
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nodejs,nextjs,postgres,supabase,mongodb,docker,git,github,vscode&perline=13)](https://skillicons.dev)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderMageFox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMageFox&layout=compact&langs_count=8&theme=tokyonight"/>
 
@@ -74,17 +54,17 @@ const coderMageFox = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
-  
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=CoderMageFox&theme=tokyonight&row=1&column=7)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -94,36 +74,22 @@ const coderMageFox = {
 
 ---
 
-## 🎯 Current Projects
+## What's Next
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏝️ **[OASIS](https://github.com/camel-ai/oasis)** | Open Agent Social Interaction Simulations | Python + AI Agents |
-| ⚡ **[alfredMagic](https://github.com/CoderMageFox/alfredMagic)** | Productivity Enhancement Workflow for Chinese | JavaScript + Alfred |
-| 🎲 **[magefake](https://github.com/CoderMageFox/magefake)** | Chinese Data Generation Workflow Tool | JavaScript + Workflow |
-| 📦 **[React-TS-Storybook](https://github.com/CoderMageFox/react-sass-typescript-storybook-template)** | Component Development Scaffold Template | TypeScript + React + Storybook |
-
-</div>
+- Expanding AI agent orchestration capabilities with advanced multi-agent coordination
+- Contributing to open-source AI tooling and developer experience projects
+- Building next-generation workflow automation systems
+- Exploring new frontiers in autonomous AI development
 
 ---
 
-## 📫 Connect With Me
+## Let's Connect
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderMageFox)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codermagefox@codermagefox.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://x.com/CoderMageFox)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](http://www.codermagefox.com/)
-
-</div>
+- **Website**: [os.ripoai.org](https://os.ripoai.org)
+- **Email**: [codermagefox@codermagefox.com](mailto:codermagefox@codermagefox.com)
+- **Twitter/X**: [@CoderMageFox](https://x.com/CoderMageFox)
+- **GitHub**: [@CoderMageFox](https://github.com/CoderMageFox)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+> "Never Give Up. Transforming ideas into reality through code magic."
