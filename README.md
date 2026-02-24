@@ -72,7 +72,7 @@ Self-hosted AI personal assistant that connects to WhatsApp, Telegram, Discord, 
 - Self-hosted AI agent with natural language task automation
 - 180K+ GitHub stars
 
-### 💹 [NoFx](https://github.com/NoFxAiOS/nofx) (Contributor)
+### 💹 [NoFx](https://github.com/NoFxAiOS/nofx) (Former Core Team)
 Open-source Trading OS with pluggable AI brain. Complete pipeline from market data ingestion → AI-powered analysis → automated trade execution.
 
 **Tech Stack**: Go, AI Integration, Trading Systems
