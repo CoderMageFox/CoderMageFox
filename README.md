@@ -62,6 +62,16 @@ A Claude Code plugin for orchestrating complex development tasks through paralle
 - Intelligent result merging and conflict resolution
 - Automated code review and quality checks
 
+### 🦞 [OpenClaw](https://github.com/openclaw/openclaw) (Contributor)
+Self-hosted AI personal assistant that connects to WhatsApp, Telegram, Discord, Slack, and more. One of the fastest-growing open-source projects on GitHub.
+
+**Tech Stack**: TypeScript, Multi-Platform Messaging, AI Agents
+
+**Highlights**:
+- Cross-platform messaging integration
+- Self-hosted AI agent with natural language task automation
+- 180K+ GitHub stars
+
 ### 💹 [NoFx](https://github.com/NoFxAiOS/nofx) (Contributor)
 Open-source Trading OS with pluggable AI brain. Complete pipeline from market data ingestion → AI-powered analysis → automated trade execution.
 
