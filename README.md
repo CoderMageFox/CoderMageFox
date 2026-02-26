@@ -104,6 +104,24 @@ Open-source Trading OS with pluggable AI brain. Complete pipeline from market da
 
 </div>
 
+### Recent Activity (7 days)
+
+<div align="center">
+  <img src="./metrics-recent-7d.svg" alt="Recent activity (7 days)" />
+</div>
+
+### Monthly Activity (30 days)
+
+<div align="center">
+  <img src="./metrics-recent-30d.svg" alt="Monthly activity (30 days)" />
+</div>
+
+### Coding Habits & Languages
+
+<div align="center">
+  <img src="./metrics-habits.svg" alt="Coding habits and languages" />
+</div>
+
 ---
 
 ## 🌱 What's Next
