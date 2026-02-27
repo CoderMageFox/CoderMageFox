@@ -21,7 +21,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 7
-          plugin_activity_filter: commit, pr, issue, comment
+          plugin_activity_filter: push, pr, issue, comment
 
       - name: Monthly Activity (30 days)
         uses: lowlighter/metrics@latest
@@ -34,4 +34,4 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 15
           plugin_activity_days: 30
-          plugin_activity_filter: commit, pr, issue, comment
+          plugin_activity_filter: push, pr, issue, comment
