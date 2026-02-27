@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI-First Startup Architect** consuming **300-10000 million tokens daily** in production environments. I believe AI-First is the future of software—not AI-assisted, but AI-driven.
+I'm an **AI-First Startup Architect** consuming **300-1000 million tokens daily** in production environments. I believe AI-First is the future of software—not AI-assisted, but AI-driven.
 
 As the lead architect, I've migrated our entire tech stack from a Python/Kotlin/Go/Java mix to **pure TypeScript**—because unified language stacks enable AI to understand, generate, and maintain code far more efficiently.
 
