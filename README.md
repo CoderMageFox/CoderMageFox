@@ -34,7 +34,7 @@ As the lead architect, I've migrated our entire tech stack from a Python/Kotlin/
 - DevOps: Docker, CI/CD, Cloud deployment
 
 **Daily Reality**
-- Token consumption: 300M - 500M / day
+- Token consumption: **10亿 - 15亿 / day**
 - Primary models: Claude Opus 4.5, GPT-5, Gemini 3.0 Pro
 - AI generates 100%+ of code, humans own architecture and quality
 
@@ -47,6 +47,12 @@ Intelligent CLI router that automatically selects the best AI backend for your t
 
 **Tech Stack**: Python, Multi-AI Integration, CLI Framework
 
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Routing-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/CLI-4B4B4B?logo=gnu%20bash&logoColor=white&style=flat-square" />
+</div>
+
 **Highlights**:
 - Automatic provider selection based on task complexity
 - Cost-aware routing with budget management
@@ -56,6 +62,12 @@ Intelligent CLI router that automatically selects the best AI backend for your t
 A Claude Code plugin for orchestrating complex development tasks through parallel agent coordination. Enables sophisticated task decomposition, parallel execution, and intelligent result merging.
 
 **Tech Stack**: Shell, Claude Code, Multi-Agent Orchestration
+
+<div>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu%20bash&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Orchestration-0066CC?style=flat-square" />
+</div>
 
 **Highlights**:
 - Parallel task execution with multiple agents
@@ -67,6 +79,12 @@ Self-hosted AI personal assistant that connects to WhatsApp, Telegram, Discord, 
 
 **Tech Stack**: TypeScript, Multi-Platform Messaging, AI Agents
 
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Messaging-2F80ED?logo=telegram&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square" />
+</div>
+
 **Highlights**:
 - Cross-platform messaging integration
 - Self-hosted AI agent with natural language task automation
@@ -76,6 +94,12 @@ Self-hosted AI personal assistant that connects to WhatsApp, Telegram, Discord, 
 Open-source Trading OS with pluggable AI brain. Complete pipeline from market data ingestion → AI-powered analysis → automated trade execution.
 
 **Tech Stack**: Go, AI Integration, Trading Systems
+
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Integration-16A5A5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trading-00A6FF?style=flat-square" />
+</div>
 
 **Highlights**:
 - Real-time market data processing
@@ -127,4 +151,3 @@ Open-source Trading OS with pluggable AI brain. Complete pipeline from market da
 > "Never Give Up. Transforming ideas into reality through AI magic."
 
 ---
-
