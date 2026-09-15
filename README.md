@@ -1,5 +1,6 @@
 # CoderMageFox
 
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/codermagefox)](https://ghfind.com/u/codermagefox?ref=badge)
 ## AI-Native Software Architect
 
 I build systems where humans define intent, AI executes, and engineering judgment governs the result.
